@@ -1,2 +1,3 @@
 # ECG_analyser
-ECG Analyser 
+
+Create test ECG analyser with NN mechanism.
